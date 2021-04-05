@@ -37,3 +37,9 @@ The value of the "Exit Rate" feature for a specific web page is calculated as fo
 The "Page Value" feature represents the average value for a web page that a user visited before completing an e-commerce transaction. 
 The "Special Day" feature indicates the closeness of the site visiting time to a specific special day (e.g. Mother’s Day, Valentine's Day) in which the sessions are more likely to be finalized with the transaction. The value of this attribute is determined by considering the dynamics of e-commerce such as the duration between the order date and delivery date. For example, for Valentina’s day, this value takes a nonzero value between February 2 and February 12, zero before and after this date unless it is close to another special day, and its maximum value of 1 on February 8. 
 The dataset also includes the operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.
+
+Release
+This is the first release. Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information.   https://github.com/Edwin-Kutsushi/Edwin_Kutsushi_Independent_Project_Week_13.git
+
+Contribution
+Contributing Fork it https://github.com/Edwin-Kutsushi/Edwin_Kutsushi_Independent_Project_Week_13.git. Create your feature branch (git checkout -b feature/fooBar) Commit your changes (git commit -am 'Add some fooBar') Push to the branch (git push origin feature/fooBar) Create a new Pull Request
